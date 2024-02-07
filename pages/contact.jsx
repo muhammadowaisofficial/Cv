@@ -56,7 +56,7 @@ const Contact = () => {
         <div className="h-16 w-full card_stylings text-xl sm:text-3xl flex gap-x-8 sm:gap-x-16 items-center justify-center text-Snow">
           <a
             className="hover:scale-125 ease-in-out duration-700"
-            href=""
+            href="mailto:muhammadowaisofficial009@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -64,7 +64,7 @@ const Contact = () => {
           </a>
           <a
             className="hover:scale-125 ease-in-out duration-700"
-            href="https://github.com/osamajavaid"
+            href="mailto:muhammadowaisofficial009@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
@@ -72,7 +72,7 @@ const Contact = () => {
           </a>
           <a
             className="hover:scale-125 ease-in-out duration-700"
-            href="https://www.linkedin.com/in/iosamajavaid/"
+            href="https://github.com/muhammadowaisofficial"
             target="_blank"
             rel="noreferrer"
           >
@@ -80,23 +80,15 @@ const Contact = () => {
           </a>
           <a
             className="hover:scale-125 ease-in-out duration-700"
-            href="https://x.com/iosamajavaid"
+            href="https://www.linkedin.com/in/mohammadowaisofficial"
             target="_blank"
             rel="noreferrer"
           >
             <FaTwitter />
           </a>
           <a
-            className="hover:scale-125 ease-in-out duration-700 hidden sm:block"
-            href="https://www.fiverr.com/Freelancer"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Fiverr_Icon />
-          </a>
-          <a
             className="hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1"
-            href="#"
+            href="https://upwork.com/freelancers/mohammadowaisofficial"
             target="_blank"
             rel="noreferrer"
           >
@@ -183,7 +175,7 @@ const Contact = () => {
           <a
             className="underline text-Snow"
             target="_blank"
-            href="https://github.com/osamajavaid/portfolio"
+            href="https://github.com/muhammadowaisofficial"
           >
             Be the one to integrate this!
           </a>
